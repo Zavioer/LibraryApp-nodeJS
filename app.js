@@ -9,7 +9,7 @@ const cookieSession = require('cookie-session')
 const bcrypt = require('bcrypt')
 const { check, validationResult } = require('express-validator')
 
-const apiKey = 'AIzaSyBIiEa3NQzYRdr7pgsnujdjpqq5lwll_NE'
+const apiKey = ''
 const app = express()
 
 
